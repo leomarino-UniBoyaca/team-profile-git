@@ -6,3 +6,5 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
+
+tarea-santiago : desarrollo
