@@ -6,6 +6,6 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
-Versión: 1.0
+Versión: 3.1
 
 tarea-santiago : desarrollo1
