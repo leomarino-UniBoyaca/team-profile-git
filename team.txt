@@ -1,0 +1,8 @@
+Equipo de Desarrollo
+
+Integrantes:
+1. Leonardo Mariño Ferreira
+2. Santiago Chacón Montañez
+
+Proyecto:
+Aplicación de perfiles del equipo
