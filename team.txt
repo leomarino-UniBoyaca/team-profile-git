@@ -1,7 +1,7 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Leonardo Mariño Ferreira
+1. Leonardo Mariño Ferreira - BackEnd
 2. Santiago Chacón Montañez
 
 Proyecto:
